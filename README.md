@@ -2,6 +2,8 @@
 
 EaterVerse is an innovative web application designed to connect restaurant enthusiasts with exceptional dining experiences while empowering business owners to manage their restaurants effectively. This project integrates features from platforms like OpenTable and Yelp, offering seamless table reservations, user reviews, and photo sharing.
 
+## Deployment through Render.com
+
 ## Key Features
 
 1. User Accounts:
@@ -29,4 +31,12 @@ EaterVerse is an innovative web application designed to connect restaurant enthu
 
 - Flask, PostgreSQL, Alembic, React.js, JSON Web Tokens (JWT)
 
-## Deployment through Render.com
+## 📘 Wiki
+
+- [API Documentation](https://github.com/lainey1/eater_verse/wiki/API-Documentation)
+- [Wireframes](https://github.com/lainey1/eaterverse/wiki/Wireframes)
+- Store Documentation coming soon!
+
+## 📸 Screenshots
+
+Screenshots coming soon!
